@@ -15,6 +15,7 @@ The following technologies were used to create and host the website:
 - NGINX
 - Ubuntu Server
 - Proxmox
+- AWS Route 53
 
 ### The Website
 
